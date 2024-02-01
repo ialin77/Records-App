@@ -1,7 +1,7 @@
 # Records-App
 
 Records-App is a simple app where you can add your records.
-For the Records App, I used the Python language for all functionalities, and the entire application was written in PyCharm.Also, during the realization of the project, I used the Djnago web framework to develop the project.
+For the Records App, I used Python for all functionalities, and the entire application was written in PyCharm. Also, during the realization of the project, I used the Djnago web framework to develop the project.
 
 The only app of the project is called 'webapp' where I integrated the functionalities such as adding records, updating or deleting them, and the functionality of login or register
 
